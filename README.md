@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Patricia Carvajal, Computing Engineering's student in Chile.
 - 👀 I’m interested in front and back-end.
-- 🌱 I’m currently learning Javascript and Django.
+- 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me pa.carvajall@duocuc.cl
+- 📫 How to reach me pa.acarvajall@gmail.com
 
 <!---
 PaCarvajal/PaCarvajal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
