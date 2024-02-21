@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Patricia Carvajal, Computing Engineering's student in Chile.
+- 👋 Hi, I’m Patricia Carvajal, Computing Engineer in Chile.
 - 👀 I’m interested in front and back-end.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on ...
